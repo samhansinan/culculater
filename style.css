@@ -1,0 +1,43 @@
+.cul{
+    background-image: linear-gradient(to bottom, #377195, #c55a5a);
+    padding: 30px;
+   position: absolute;
+    border-radius: 10px ;
+    box-shadow: 10px 10px 30px ;
+    margin: auto;
+   width: 40%;
+   top: 40%;
+   left: 50%;
+   transform: translate(-50%, -40%);
+   border: 3px solid #73AD21;
+ 
+ 
+    
+ }
+ input{
+     width: 85%;
+     padding: 14px;
+     border-radius: 10px;
+    align-items: center;
+    font-size: 18px;
+    
+    background-color: #31cbb1;
+     
+ }
+ 
+ button{
+     padding: 10px;
+     background: none;
+     width: 90%;
+     margin: 10px;
+     border-radius: 13px;
+     transition: width 1.4s;
+     font-size: 20px;
+     font-weight: 700;
+     background-image: linear-gradient(to bottom, #2f9846, #792424);
+ }
+ 
+ button:hover{
+     background-image: linear-gradient(to bottom, #6e50c8, #be9494);
+    
+ }
